@@ -18,13 +18,6 @@ I'm Gus, a Business Analyst with a few years' experience. I'd like to show you w
 - <a href="https://github.com/guslipkin/disney_ds"><b>How:</b></a> `R: {forcats, lubridate, reshape2, tidyverse}`
 - **Conclusion:** Try going to Epcot on a Wednesday in September.
 
-<h4><a href="https://github.com/guslipkin/PrincessComponentAnalysis/blob/main/PrincessComponentAnalysis.pdf">Princess Component Analysis</a></h4>
-
-- **What:** Can I find a pattern in scripts for the twelve [Disney Princesses](https://disneyprincess.fandom.com/wiki/List_of_Disney_Princesses#Official_Princesses) and then identify movies based on a selection of lines?
-- **Why:** Why not?
-- <a href="https://github.com/guslipkin/PrincessComponentAnalysis"><b>How:</b></a> `R: {data.table, ggridges, tidytext, tidyverse, topicdoc, topicmodels}`
-- **Conclusion:** While each movie has a distinct emotional profile over the course of the movie, individual lines are too similar.
-
 ### Economic Analysis Focused Projects
 
 <h4><a href="https://github.com/guslipkin/Fall2021/blob/main/ECO%203930%20%7E%20Contemporary%20Economics/Final%20Paper/FinalPaperPresentation.pdf">Improving Tutoring at Florida Poly</a></h4>
