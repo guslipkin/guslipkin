@@ -27,6 +27,13 @@ I'm Gus, a Business Analyst with a few years' experience. I'd like to show you w
 - <a href="https://github.com/guslipkin/Fall2021/tree/main/ECO%203930%20%7E%20Contemporary%20Economics/Final%20Paper"><b>How:</b></a> ✨Math✨
 - **Conclusion:** Try going to Epcot on a Wednesday in September.
 
+<h4><a href="https://github.com/guslipkin/Spring2021/blob/main/GEB%203373%20%7E%20International%20Comparative%20Dimensions/GEB%203373%20Final%20Project/Final%20Presentation.pdf">Trader Joe's Cultural and Marketing Plan</a></h4>
+
+- **What:** Let's help Trader Joe's enter the Canadian supermarket industry.
+- **Why:** It's a final project for GEB 3373 – International and Comparative Dimensions of Business
+- **How:** `Economic Analysis` and `Game Theory`
+- **Conclusion:** Trader Joe's has the potential to be a smash hit in the Canadian Supermarket industry.
+
 ### Other Projects
 
 <h4><a href="https://github.com/guslipkin/Lark/blob/master/Cat%20Simulator%202019%20PDF.pdf">Cat Simulator 2019</a></h4>
@@ -36,10 +43,9 @@ I'm Gus, a Business Analyst with a few years' experience. I'd like to show you w
 - <a href="https://github.com/guslipkin/Lark/blob"><b>How:</b></a> `Bash`
 - **Conclusion:** It's lots of fun. I highly recommend it!
 
-<h4><a href="https://github.com/guslipkin/Spring2021/blob/main/GEB%203373%20%7E%20International%20Comparative%20Dimensions/GEB%203373%20Final%20Project/Final%20Presentation.pdf">Trader Joe's Cultural and Marketing Plan</a></h4>
+<h4><a href="https://flpolysga.github.io/">FLPolySGA.github.io</a></h4>
 
-- **What:** Let's help Trader Joe's enter the Canadian supermarket industry.
-- **Why:** It's a final project for GEB 3373 – International and Comparative Dimensions of Business
-- **How:** `Economic Analysis` and `Game Theory`
-- **Conclusion:** It's lots of fun. I highly recommend it!
-
+- **What:** Let's make a website with all the Student Government documents.
+- **Why:** It's important that Student Government stay in compliance with Florida Sunshine Laws
+- <a href="https://github.com/FLPolySGA/FLPolySGA.github.io"><b>How:</b></a> `GitHub Pages`, `Jekyll`, `Markdown`
+- **Conclusion:** It ain't much, but it's honest work.
