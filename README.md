@@ -31,7 +31,7 @@ I'm Gus, a Business Analyst with a few years' experience. I'd like to show you w
 
 - **What:** Let's help Trader Joe's enter the Canadian supermarket industry.
 - **Why:** It's a final project for GEB 3373 – International and Comparative Dimensions of Business
-- <a href="https://github.com/guslipkin/Spring2021/blob/main/GEB%203373%20%7E%20International%20Comparative%20Dimensions/GEB%203373%20Final%20Project"><b>How:</b></a>* `Economic Analysis` and `Game Theory`
+- <a href="https://github.com/guslipkin/Spring2021/blob/main/GEB%203373%20%7E%20International%20Comparative%20Dimensions/GEB%203373%20Final%20Project"><b>How:</b></a> `Economic Analysis` and `Game Theory`
 - **Conclusion:** Trader Joe's has the potential to be a smash hit in the Canadian Supermarket industry.
 
 ### Other Projects
