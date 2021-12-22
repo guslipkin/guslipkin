@@ -2,6 +2,8 @@
 
 I'm Gus, a Business Analyst with a few years' experience. I'd like to show you what I do.
 
+Before you get too far, I'd like to let you know about [guslipkin.github.io](https://guslipkin.github.io). It has everything this page has and more!
+
 ### Data Focused Projects
 
 <h4><a href="https://github.com/guslipkin/COVID-TimeSeries-GIS/blob/main/Presentation.pdf">Investigating a relationship between climate variables and the spread of COVID-19</a></h4>
